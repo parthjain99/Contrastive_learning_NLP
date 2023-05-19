@@ -1,3 +1,5 @@
 # Contrastive-Text-Generation  
 
 This is our implementation of the paper [CoNT: Contrastive Neural Text Generation](https://arxiv.org/pdf/2205.14690.pdf) for the CS533 Class Project.
+
+Contrastive learning has gained significant at- tention in the field of text generation due to its ability to alleviate exposure bias. However, pre- vious approaches applying contrastive learning to text generation have not provided significant improvements in performance. Authors of the paper CoNT:Contrastive Neural Text Genera- tion framework addresses this issue by intro- ducing strategies in three key aspects of Con- trastive Learning: selecting in-batch contrastive examples, using a contrastive loss, and infer- ence with a learned similarity function. We evaluate CoNT on two tasks - common sense generation on the Common-Gen dataset and text summarization on the X-Sum dataset - and try to replicate some of the results achieved by the authors of the original paper. Our experi- ments demonstrate that CoNT is a promising framework for improving text generation per- formance.
