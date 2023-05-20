@@ -45,7 +45,7 @@ Contrastive learning has gained significant at- tention in the field of text gen
 </tbody>
 </table>
 
-###Results on Common Sense Generation task
+### Results on Common Sense Generation task
 <table class="tg">
 <thead>
   <tr>
