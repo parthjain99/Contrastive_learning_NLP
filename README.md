@@ -7,7 +7,7 @@ Contrastive learning has gained significant at- tention in the field of text gen
 
 ## Results
 
-
+### Results on Summarization task
 <table class="tg">
 <thead>
   <tr>
@@ -45,7 +45,7 @@ Contrastive learning has gained significant at- tention in the field of text gen
 </tbody>
 </table>
 
-
+###Results on Common Sense Generation task
 <table class="tg">
 <thead>
   <tr>
@@ -95,6 +95,6 @@ Contrastive learning has gained significant at- tention in the field of text gen
 
 ## Example Output for Commen Gen Task
 
-<img href= "https://github.com/parthjain99/Contrastive_learning_NLP/blob/main/Example.png">
+<img src="https://github.com/parthjain99/Contrastive_learning_NLP/blob/main/Example.png">
 
 
