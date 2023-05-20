@@ -93,4 +93,8 @@ Contrastive learning has gained significant at- tention in the field of text gen
 </tbody>
 </table>
 
+## Example Output for Commen Gen Task
+
+<img href= "https://github.com/parthjain99/Contrastive_learning_NLP/blob/main/Example.png">
+
 
